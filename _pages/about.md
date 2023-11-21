@@ -25,7 +25,7 @@ His research focuses on software reliability engineering for cloud and AI system
 # 🔥 News
 - [2023.08] Our paper "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception" was accepted by [the industry track of FSE 2023 (The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2023/).
 - [2023.08] 3 papers were accepted by [The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023](https://conf.researchr.org/home/ase-2023). 
-- [2023.07] Our paper "Anole: An Elastic and Adaptive Memory-Disaggregated Caching
+- [2023.07] Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching
   System" was accepted by [The 29th ACM The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
 
 # 📝 Selected Publications 
