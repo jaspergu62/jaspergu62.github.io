@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiazhen Gu"
-description              : "Jiazhen Gu's Homepage"
+description              : "Postdoctoral Researcher, CUHK"
 repository               : "jaspergu62/jaspergu62.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiazhen Gu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PostDoctoral Research Fellow"
+  bio              : ""
   location         : "Shatin, Hong Kong SAR"
-  employer         : "The Chinese University of Hong Kong"
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SO_MCpIAAAAJ"
   email            : "jiazhengu@cuhk.edu.hk"

@@ -19,16 +19,36 @@ redirect_from:
 
 Jiazhen Gu is a postdoctoral researcher in the [Automated Reliable Intelligent Software Engineering (ARISE) Lab](http://ariselab.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), mentored by Prof. [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Jiazhen Gu received both Ph.D. and B.S. degrees from [Fudan University](https://www.fudan.edu.cn/), supervised by Prof. [Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/) and Prof. [Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/).
 
-His research focuses on software reliability engineering for cloud and AI systems.
+His research focuses on software reliability engineering for cloud & AI systems, including:
+
+- AIOps for cloud systems
+  - Adopts data-driven methods to automate operations tasks (e.g., anomaly detection, root cause analysis) based on heterogeneous data (e.g., metrics, logs, alerts, and traces)
+- Reliability of AI systems
+  - Robustness/Fairness of AI models
+  - Reliability of AI infrastructure (e.g., TensorFlow and TVM)
 
 
 # 🔥 News
 - [2023.08] Our paper "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception" was accepted by [the industry track of FSE 2023 (The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2023/).
 - [2023.08] 3 papers were accepted by [The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023](https://conf.researchr.org/home/ase-2023). 
 - [2023.07] Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching
-  System" was accepted by [The 29th ACM The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
+  System" was accepted by [The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
 
 # 📝 Selected Publications 
+
+1. Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **Jiazhen Gu**, Xin Wang, Michael R. Lyu, and Yangfan Zhou. "SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory." In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
+2. Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, **Jiazhen Gu**, Hao Feng, Yangfan Zhou, and Michael R. Lyu. "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System." In Proc. of [SOSP 2023](https://sosp2023.mpi-sws.org/).
+3. Yongxiang Hu, **Jiazhen Gu**, Shuqing Hu, Yu Zhang, Wenjie Tian, Shiyu Guo, Chaoyi Chen, and Yangfan Zhou. "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception." In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023), Industry Track.
+4. Wenxuan Wang, Jingyuan Huang, Jen-tse Huang, Chang Chen, **Jiazhen Gu**, Pinjia He, and Michael R. Lyu. "An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+5.  Shuyan Jiang, Ruiying Zeng, Zihao Rao, **Jiazhen Gu**, Yangfan Zhou, and Michael R. Lyu. "Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+6.  Jinyang Liu, Zhihan Jiang, **Jiazhen Gu**, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu. "Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+7.  Wenxuan Wang, Jingyuan Huang, Chang Chen, **Jiazhen Gu**, Jianping Zhang, Weibin Wu, Pinjia He, and Michael R. Lyu. "Validating Multimedia Content Moderation Software via Semantic Fusion." In Proc. of [ISSTA 2023](https://conf.researchr.org/home/issta-2023).
+8.  Yuxuan Wan, Wenxuan Wang, Pinjia He, **Jiazhen Gu**, Haonan Bai, and Michael R. Lyu. "BiasAsker: Measuring the Bias in Conversational AI System." In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023).
+9.  **Jiazhen Gu**, Xuchuan Luo, Yangfan Zhou, and Xin Wang. "Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing." In Proc. of [ICSE 2022](https://conf.researchr.org/home/icse-2022).
+10. **Jiazhen Gu**, Chuan Luo, Si Qin, Bo Qiao, Qingwei Lin, Hongyu Zhang, Ze Li, Yingnong Dang, Shaowei Cai, Wei Wu, Yangfan Zhou, Murali Chintalapati, and Dongmei Zhang. "Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search." In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/). 
+11. **Jiazhen Gu**, Jiaqi Wen, Zijian Wang, Pu Zhao, Chuan Luo, Yu Kang, Yangfan Zhou, Li Yang, Jeffrey Sun, Zhangwei Xu, Bo Qiao, Liqun Li, Qingwei Lin, and Dongmei Zhang. "Efficient Customer Issue Triage via Linking with System Incidents." In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/), Industry Track.
+
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,6 +62,7 @@ His research focuses on software reliability engineering for cloud and AI system
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
+- *2023.06* "Towards Intelligent Operations for Reliable Cloud Systems:Current Landscape, Opportunities, and Challenges".
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
