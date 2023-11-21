@@ -36,17 +36,39 @@ His research focuses on software reliability engineering for cloud & AI systems,
 
 # 📝 Selected Publications 
 
-1. Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **Jiazhen Gu**, Xin Wang, Michael R. Lyu, and Yangfan Zhou. "SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory." In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
-2. Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, **Jiazhen Gu**, Hao Feng, Yangfan Zhou, and Michael R. Lyu. "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System." In Proc. of [SOSP 2023](https://sosp2023.mpi-sws.org/).
-3. Yongxiang Hu, **Jiazhen Gu**, Shuqing Hu, Yu Zhang, Wenjie Tian, Shiyu Guo, Chaoyi Chen, and Yangfan Zhou. "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception." In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023), Industry Track.
-4. Wenxuan Wang, Jingyuan Huang, Jen-tse Huang, Chang Chen, **Jiazhen Gu**, Pinjia He, and Michael R. Lyu. "An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-5.  Shuyan Jiang, Ruiying Zeng, Zihao Rao, **Jiazhen Gu**, Yangfan Zhou, and Michael R. Lyu. "Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-6.  Jinyang Liu, Zhihan Jiang, **Jiazhen Gu**, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu. "Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems." In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-7.  Wenxuan Wang, Jingyuan Huang, Chang Chen, **Jiazhen Gu**, Jianping Zhang, Weibin Wu, Pinjia He, and Michael R. Lyu. "Validating Multimedia Content Moderation Software via Semantic Fusion." In Proc. of [ISSTA 2023](https://conf.researchr.org/home/issta-2023).
-8.  Yuxuan Wan, Wenxuan Wang, Pinjia He, **Jiazhen Gu**, Haonan Bai, and Michael R. Lyu. "BiasAsker: Measuring the Bias in Conversational AI System." In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023).
-9.  **Jiazhen Gu**, Xuchuan Luo, Yangfan Zhou, and Xin Wang. "Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing." In Proc. of [ICSE 2022](https://conf.researchr.org/home/icse-2022).
-10. **Jiazhen Gu**, Chuan Luo, Si Qin, Bo Qiao, Qingwei Lin, Hongyu Zhang, Ze Li, Yingnong Dang, Shaowei Cai, Wei Wu, Yangfan Zhou, Murali Chintalapati, and Dongmei Zhang. "Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search." In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/). 
-11. **Jiazhen Gu**, Jiaqi Wen, Zijian Wang, Pu Zhao, Chuan Luo, Yu Kang, Yangfan Zhou, Li Yang, Jeffrey Sun, Zhangwei Xu, Bo Qiao, Liqun Li, Qingwei Lin, and Dongmei Zhang. "Efficient Customer Issue Triage via Linking with System Incidents." In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/), Industry Track.
+1. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\
+   Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, <u>**Jiazhen Gu**</u>, Xin Wang, Michael R. Lyu, and Yangfan Zhou.\
+   In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
+2. Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.\
+   Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, <u>**Jiazhen Gu**</u>, Hao Feng, Yangfan Zhou, and Michael R. Lyu.\
+   In Proc. of [SOSP 2023](https://sosp2023.mpi-sws.org/).
+3. Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception.\
+   Yongxiang Hu, <u>**Jiazhen Gu**</u>, Shuqing Hu, Yu Zhang, Wenjie Tian, Shiyu Guo, Chaoyi Chen, and Yangfan Zhou.\
+   In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023), Industry Track.
+4. An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software.\
+   Wenxuan Wang, Jingyuan Huang, Jen-tse Huang, Chang Chen, <u>**Jiazhen Gu**</u>, Pinjia He, and Michael R. Lyu.\
+   In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+5. Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.\
+   Shuyan Jiang, Ruiying Zeng, Zihao Rao, <u>**Jiazhen Gu**</u>, Yangfan Zhou, and Michael R. Lyu.\
+   In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+6. Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems.\
+   Jinyang Liu, Zhihan Jiang, <u>**Jiazhen Gu**</u>, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu.\
+   In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
+7. Validating Multimedia Content Moderation Software via Semantic Fusion.\
+   Wenxuan Wang, Jingyuan Huang, Chang Chen, <u>**Jiazhen Gu**</u>, Jianping Zhang, Weibin Wu, Pinjia He, and Michael R. Lyu.\
+   In Proc. of [ISSTA 2023](https://conf.researchr.org/home/issta-2023).
+8. BiasAsker: Measuring the Bias in Conversational AI System.\
+   Yuxuan Wan, Wenxuan Wang, Pinjia He, <u>**Jiazhen Gu**</u>, Haonan Bai, and Michael R. Lyu.\
+   In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023).
+9. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.
+    <u>**Jiazhen Gu**</u>, Xuchuan Luo, Yangfan Zhou, and Xin Wang.\
+    In Proc. of [ICSE 2022](https://conf.researchr.org/home/icse-2022).
+10. Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search.\
+    <u>**Jiazhen Gu**</u>, Chuan Luo, Si Qin, Bo Qiao, Qingwei Lin, Hongyu Zhang, Ze Li, Yingnong Dang, Shaowei Cai, Wei Wu, Yangfan Zhou, Murali Chintalapati, and Dongmei Zhang.\
+    In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/).
+11. Efficient Customer Issue Triage via Linking with System Incidents.\
+    <u>**Jiazhen Gu**</u>, Jiaqi Wen, Zijian Wang, Pu Zhao, Chuan Luo, Yu Kang, Yangfan Zhou, Li Yang, Jeffrey Sun, Zhangwei Xu, Bo Qiao, Liqun Li, Qingwei Lin, and Dongmei Zhang.\
+    In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/), Industry Track.
 
 
 
