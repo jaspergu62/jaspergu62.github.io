@@ -22,10 +22,10 @@ Jiazhen Gu is a postdoctoral researcher in the [Automated Reliable Intelligent S
 His research focuses on software reliability engineering for cloud & AI systems, including:
 
 - AIOps for cloud systems
-  - Adopts data-driven methods to automate operations tasks (e.g., anomaly detection, root cause analysis) based on heterogeneous data (e.g., metrics, logs, alerts, and traces)
+  - Adopts data-driven methods to automate operations tasks (*e.g.,* anomaly detection, root cause analysis) based on heterogeneous data (*e.g.,* metrics, logs, alerts, and traces)
 - Reliability of AI systems
   - Robustness/Fairness of AI models
-  - Reliability of AI infrastructure (e.g., TensorFlow and TVM)
+  - Reliability of AI infrastructure (*e.g.,* TensorFlow and TVM)
 
 
 # 🔥 News
@@ -84,4 +84,4 @@ His research focuses on software reliability engineering for cloud & AI systems,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 💬 Invited Talks
-- *2023.06* "Towards Intelligent Operations for Reliable Cloud Systems: Current Landscape, Opportunities, and Challenges".
+- [2023.06] "Towards Intelligent Operations for Reliable Cloud Systems: Current Landscape, Opportunities, and Challenges".
