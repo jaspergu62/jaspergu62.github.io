@@ -34,8 +34,8 @@ His research focuses on software reliability engineering for cloud & AI systems,
 - [2023.07] Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching
   System" was accepted by [The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
 
-# 📝 Selected Publications 
-
+# 📝 Publications 
+## Selected Papers ([all](full_pub.md))
 1. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\
    Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **<u>Jiazhen Gu</u>**, Xin Wang, Michael R. Lyu, and Yangfan Zhou.\
    In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
@@ -49,7 +49,7 @@ His research focuses on software reliability engineering for cloud & AI systems,
    Wenxuan Wang, Jingyuan Huang, Jen-tse Huang, Chang Chen, **<u>Jiazhen Gu</u>**, Pinjia He, and Michael R. Lyu.\
    In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
 5. Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.\
-   Shuyan Jiang, Ruiying Zeng, Zihao Rao, **<u>Jiazhen Gu</u>**, Yangfan Zhou, and Michael R. Lyu.\
+   Shuyao Jiang, Ruiying Zeng, Zihao Rao, **<u>Jiazhen Gu</u>**, Yangfan Zhou, and Michael R. Lyu.\
    In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
 6. Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems.\
    Jinyang Liu, Zhihan Jiang, **<u>Jiazhen Gu</u>**, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu.\
@@ -60,7 +60,7 @@ His research focuses on software reliability engineering for cloud & AI systems,
 8. BiasAsker: Measuring the Bias in Conversational AI System.\
    Yuxuan Wan, Wenxuan Wang, Pinjia He, **<u>Jiazhen Gu</u>**, Haonan Bai, and Michael R. Lyu.\
    In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023).
-9. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.
+9. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.\
     **<u>Jiazhen Gu</u>**, Xuchuan Luo, Yangfan Zhou, and Xin Wang.\
     In Proc. of [ICSE 2022](https://conf.researchr.org/home/icse-2022).
 10. Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search.\
