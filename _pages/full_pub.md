@@ -2,20 +2,13 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: False
 redirect_from: 
-  - /about/
-  - /about.html
+  - /full_pub/
+  - /full_pub.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='full-pub'></span>
+<span class='anchor' id='full_pub'></span>
 
 - "SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory." \
   Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **<u>Jiazhen Gu</u>**, Xin Wang, Michael R. Lyu, and Yangfan Zhou. \
