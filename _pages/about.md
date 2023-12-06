@@ -35,7 +35,7 @@ His research focuses on software reliability engineering for cloud & AI systems,
   System" was accepted by [The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
 
 # 📝 Publications 
-## Selected Papers ([all](full_pub.md))
+## Selected Papers ([all](./full_pub.html))
 1. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\
    Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **<u>Jiazhen Gu</u>**, Xin Wang, Michael R. Lyu, and Yangfan Zhou.\
    In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
