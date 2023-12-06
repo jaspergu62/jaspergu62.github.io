@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: ""
@@ -6,7 +6,7 @@ author_profile: False
 redirect_from: 
   - /full_pub/
   - /full_pub.html
----
+--- -->
 
 <span class='anchor' id='full_pub'></span>
 
