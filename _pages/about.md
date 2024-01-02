@@ -29,6 +29,7 @@ His research focuses on software reliability engineering for cloud & AI systems,
 
 
 # 🔥 News
+- [2023.12] 3 papers were accpeted by [ICSE-SEIP 2024 (The 46th IEEE/ACM International Conference on Software Engineering, The Software Engineering in Practice track)](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice).
 - [2023.08] Our paper "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception" was accepted by [the industry track of FSE 2023 (The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2023/).
 - [2023.08] 3 papers were accepted by [The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023](https://conf.researchr.org/home/ase-2023). 
 - [2023.07] Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching
