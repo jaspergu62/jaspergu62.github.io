@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiazhen Gu is a postdoctoral researcher in the [Automated Reliable Intelligent Software Engineering (ARISE) Lab](http://ariselab.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), mentored by Prof. [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Jiazhen Gu received both Ph.D. and B.S. degrees from [Fudan University](https://www.fudan.edu.cn/), supervised by Prof. [Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/) and Prof. [Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/).
+Jiazhen Gu is currently a principal engineer at Huawei Hong Kong Research Center. He was a postdoctoral researcher in the [Automated Reliable Intelligent Software Engineering (ARISE) Lab](http://ariselab.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), mentored by Prof. [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Jiazhen Gu received both Ph.D. and B.S. degrees from [Fudan University](https://www.fudan.edu.cn/), supervised by Prof. [Xin Wang](https://faculty.fudan.edu.cn/wangxin/zh_CN/) and Prof. [Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/).
 
 His research focuses on software reliability engineering for cloud & AI systems, including:
 
