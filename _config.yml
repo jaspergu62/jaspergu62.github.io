@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiazhen Gu"
-description              : "Postdoctoral Researcher, CUHK"
+description              : "Principal Engineer, Huawei Hong Kong Research Center"
 repository               : "jaspergu62/jaspergu62.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SO_MCpIAAAAJ"
-  email            : "jiazhengu@cuhk.edu.hk"
+  email            : "gu.jiazhen@huawei.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
