@@ -29,6 +29,8 @@ His research focuses on software reliability engineering for cloud & AI systems,
 
 
 # 🔥 News
+- [2024.08] Our paper "Contextualized Data-Wrangling Code Generation in Computational Notebooks" was accepted by [ASE 2024 (The 39th IEEE/ACM International Conference on Automated Software Engineering)](https://conf.researchr.org/home/ase-2024). Congurations to Junjie!
+- [2024.06] "KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems" and "Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis" were accepted by [ISSRE 2024 (The 35th IEEE International Symposium on Software Reliability Engineering)](https://issre.github.io/2024/index.html).
 - [2024.04] Our paper "Combating Missed Recalls in E-commerce Search: a CoT-prompting Testing Approach" was accpeted by [the industry track of FSE 2024 (The ACM International Conference on the Foundations of Software Engineering)](https://2024.esec-fse.org/track/fse-2024-industry). Congurations to Shengnan!
 - [2024.04] Our paper "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps" was accpeted by [FSE 2024 (The ACM International Conference on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2024) after major revision. Congurations to [Shuqing](https://shuqing-li.github.io/)!
 - [2024.03] Our paper "A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?" was accepted by [ISSTA 2024 (The ACM SIGSOFT International Symposium on Software Testing and Analysis)](https://conf.researchr.org/home/issta-2024).
