@@ -29,51 +29,51 @@ His research focuses on software reliability engineering for cloud & AI systems,
 
 
 # 🔥 News
+- [2025.10] Our paer "PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction" was accepted by [ICSE 2026 (the 47th IEEE/ACM International Conference on Software Engineering)](https://conf.researchr.org/home/icse-2026). Congurations to Zhihan!
+- [2024.10] Our paper "ADAMAS: Adaptive Domain-Aware Performance Anomaly Detection in Cloud Service Systems" was accepted by [ICSE 2025 (the 47th IEEE/ACM International Conference on Software Engineering)](https://conf.researchr.org/home/icse-2025). Congurations to Wenwei!
 - [2024.08] Our paper "Contextualized Data-Wrangling Code Generation in Computational Notebooks" was accepted by [ASE 2024 (The 39th IEEE/ACM International Conference on Automated Software Engineering)](https://conf.researchr.org/home/ase-2024). Congurations to Junjie!
 - [2024.06] "KPIRoot: Efficient Monitoring Metric-based Root Cause Localization in Large-scale Cloud Systems" and "Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis" were accepted by [ISSRE 2024 (The 35th IEEE International Symposium on Software Reliability Engineering)](https://issre.github.io/2024/index.html).
 - [2024.04] Our paper "Combating Missed Recalls in E-commerce Search: a CoT-prompting Testing Approach" was accpeted by [the industry track of FSE 2024 (The ACM International Conference on the Foundations of Software Engineering)](https://2024.esec-fse.org/track/fse-2024-industry). Congurations to Shengnan!
 - [2024.04] Our paper "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps" was accpeted by [FSE 2024 (The ACM International Conference on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2024) after major revision. Congurations to [Shuqing](https://shuqing-li.github.io/)!
 - [2024.03] Our paper "A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?" was accepted by [ISSTA 2024 (The ACM SIGSOFT International Symposium on Software Testing and Analysis)](https://conf.researchr.org/home/issta-2024).
 - [2024.01] 2 papers were accpeted by [FSE 2024 (The ACM International Conference on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2024).
-- [2023.12] 3 papers were accpeted by [ICSE-SEIP 2024 (The 46th IEEE/ACM International Conference on Software Engineering, The Software Engineering in Practice track)](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice).
-- [2023.08] Our paper "Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception" was accepted by [the industry track of FSE 2023 (The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering)](https://conf.researchr.org/home/fse-2023/).
-- [2023.08] 3 papers were accepted by [The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023](https://conf.researchr.org/home/ase-2023). 
-- [2023.07] Our paper "Ditto: An Elastic and Adaptive Memory-Disaggregated Caching
-  System" was accepted by [The 29th ACM Symposium on Operating Systems Principles (SOSP), 2023](https://sosp2023.mpi-sws.org/).
 
-# 📝 Publications 
+# 📝 Publications
 ## Selected Papers ([all](./full_pub.html))
-1. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\
+* Corresponding author marked with * *
+1. PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction. \
+   Zhihan Jiang, Yujie Huang, Guangba Yu, Junjie Huang, **<u>Jiazhen Gu*</u>**, and Michael R. Lyu.
+2. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\
    Xuchuan Luo, Pengfei Zuo, Jiacheng Shen, **<u>Jiazhen Gu</u>**, Xin Wang, Michael R. Lyu, and Yangfan Zhou.\
    In Proc. of [OSDI 2023](https://www.usenix.org/conference/osdi23).
-2. Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.\
+3. Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.\
    Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Yuxin Su, **<u>Jiazhen Gu</u>**, Hao Feng, Yangfan Zhou, and Michael R. Lyu.\
    In Proc. of [SOSP 2023](https://sosp2023.mpi-sws.org/).
-3. Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception.\
+4. Appaction: Automatic GUI Interaction for Mobile Apps via Holistic Widget Perception.\
    Yongxiang Hu, **<u>Jiazhen Gu</u>**, Shuqing Hu, Yu Zhang, Wenjie Tian, Shiyu Guo, Chaoyi Chen, and Yangfan Zhou.\
    In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023), Industry Track.
-4. An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software.\
+5. An Image is Worth a Thousand Toxic Words: A Metamorphic Testing Framework for Content Moderation Software.\
    Wenxuan Wang, Jingyuan Huang, Jen-tse Huang, Chang Chen, **<u>Jiazhen Gu</u>**, Pinjia He, and Michael R. Lyu.\
    In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-5. Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.\
+6. Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.\
    Shuyao Jiang, Ruiying Zeng, Zihao Rao, **<u>Jiazhen Gu</u>**, Yangfan Zhou, and Michael R. Lyu.\
    In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-6. Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems.\
+7. Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems.\
    Jinyang Liu, Zhihan Jiang, **<u>Jiazhen Gu</u>**, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu.\
    In Proc. of [ASE 2023](https://conf.researchr.org/home/ase-2023).
-7. Validating Multimedia Content Moderation Software via Semantic Fusion.\
+8. Validating Multimedia Content Moderation Software via Semantic Fusion.\
    Wenxuan Wang, Jingyuan Huang, Chang Chen, **<u>Jiazhen Gu</u>**, Jianping Zhang, Weibin Wu, Pinjia He, and Michael R. Lyu.\
    In Proc. of [ISSTA 2023](https://conf.researchr.org/home/issta-2023).
-8. BiasAsker: Measuring the Bias in Conversational AI System.\
+9.  BiasAsker: Measuring the Bias in Conversational AI System.\
    Yuxuan Wan, Wenxuan Wang, Pinjia He, **<u>Jiazhen Gu</u>**, Haonan Bai, and Michael R. Lyu.\
    In Proc. of [ESEC/FSE 2023](https://conf.researchr.org/home/fse-2023).
-9. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.\
+10. Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.\
     **<u>Jiazhen Gu</u>**, Xuchuan Luo, Yangfan Zhou, and Xin Wang.\
     In Proc. of [ICSE 2022](https://conf.researchr.org/home/icse-2022).
-10. Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search.\
+11. Efficient Incident Identification from Multi-dimensional Issue Reports via Meta-heuristic Search.\
     **<u>Jiazhen Gu</u>**, Chuan Luo, Si Qin, Bo Qiao, Qingwei Lin, Hongyu Zhang, Ze Li, Yingnong Dang, Shaowei Cai, Wei Wu, Yangfan Zhou, Murali Chintalapati, and Dongmei Zhang.\
     In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/).
-11. Efficient Customer Issue Triage via Linking with System Incidents.\
+12. Efficient Customer Issue Triage via Linking with System Incidents.\
     **<u>Jiazhen Gu</u>**, Jiaqi Wen, Zijian Wang, Pu Zhao, Chuan Luo, Yu Kang, Yangfan Zhou, Li Yang, Jeffrey Sun, Zhangwei Xu, Bo Qiao, Liqun Li, Qingwei Lin, and Dongmei Zhang.\
     In Proc. of [ESEC/FSE 2020](https://2020.esec-fse.org/), Industry Track.
 
