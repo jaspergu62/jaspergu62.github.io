@@ -40,7 +40,7 @@ His research focuses on software reliability engineering for cloud & AI systems,
 
 # 📝 Publications
 ## Selected Papers ([all](./full_pub.html))
-* Corresponding author marked with * *
+*<small>Corresponding author marked with * </small>*
 1. PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction. \
    Zhihan Jiang, Yujie Huang, Guangba Yu, Junjie Huang, **<u>Jiazhen Gu*</u>**, and Michael R. Lyu.
 2. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.\

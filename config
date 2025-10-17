@@ -1,0 +1,38 @@
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519
+    AddKeysToAgent yes
+    Port 22
+
+Host fdubig
+	HostName 10.177.53.126
+	User fdubig
+	ForwardAgent yes
+
+Host remote303
+	HostName fdugeek.com
+	Port 6002
+	User fdubig
+
+Host big
+	HostName 52.191.195.117
+	User automl
+	Port 22
+
+Host cpu
+	HostName 104.211.8.139
+	User automl
+	Port 22
+
+Host cpu2
+	HostName 40.70.185.169
+	User automl
+	Port 22
+
+Host *
+    IgnoreUnknown UseKeychain
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentityFile ~/.ssh/id_ed25519
+
